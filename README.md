@@ -13,6 +13,6 @@ streamlit run app.py
 ```
 
 ## ADDITIONAL NOTES
-Import datafornotebook.csv untuk **GOOGLE COLLAB** dan import dataforstreamlit.csv untuk **STREAMLIT**.
+Import datafornotebook.csv untuk **Proyek_Analisis_Data.ipynb** dan import dataforstreamlit.csv untuk **app.py**.
 dataforstreamlit.csv berasal dari **SUMBER YANG SAMA** dan sudah melalui proses data cleaning dan data manipulation untuk bagian date sehingga ada variable year dan month.
 
